@@ -4,7 +4,7 @@
 
 ***Írta: Petrus; eredetileg megjelent: 2016. július 13., [LFG](http://lfg.hu/76188/)***
 
-Poszt-apokaliptikus világokból akad már elég a szerepjátékos palettán, fantasy-ből pláne Amazonaszt lehetne rekeszteni, sőt, poszt-apok fantasy is van már szép számmal, mégis viszonylag kevés játék foglalkozik a világégést megelőző rövid időszakkal. Talán, mert nehéz összehozni az elkerülhetetlenül bekövetkező pusztulást és a szerepjátékok általános heroizáló karakterképét. *"Miért harcoljak egy olyan világért, ami menthetetlenül el fog pusztulni?"*, kérdezheti sok játékos, és a karaktereik is ennek megfelelően unott alakok lesznek, akik megpróbálják a lehető leghatékonyabban kihasználni a hátralévő időt, ami gyakran általános harácsolásba és a játékrendszernek az átlagemberek felett nyújtotta hatalmával visszaélve akaratlanul is egyfajta antiheroikus, kínosan vicces hedonizmusába torkollik. Mégis, időnként akad egy-két olyan játék, ami képes megfelelően kezelni ezt a problémát és bár nem bánik kesztyűs kézzel a karakterekkel, van egyfajta hangulata, ami megfogja a játékosok jelentős részét és az elkerülhetetlen végzettel is szembeállítják karaktereiket. Ezt általában úgy érik el, hogy a szokványos klisékhez bátran hozzányúlnak és nem félnek nyersebb, erőszakosabb vonásokkal felruházni azokat, miközben a világban nem csak a puszta nihil, hanem a remény pislákoló csillaga és a hősiesség értelme is fennmarad valamelyest. Egyik legjobb példa erre a máig népszerű és több kiadást megélt *Warhammer Fantas**y* (és a *40K* is valamilyen formában), illetve az alább tárgyalandó *Shadow of the Demon Lord* (továbbiakban SotDL) is - és ahogy látni fogjuk, a két játék közötti hasonlóság nem véletlen.
+<img src="img/sotdl_cover.jpg" align="right" width="50%" height="50%">Poszt-apokaliptikus világokból akad már elég a szerepjátékos palettán, fantasy-ből pláne Amazonaszt lehetne rekeszteni, sőt, poszt-apok fantasy is van már szép számmal, mégis viszonylag kevés játék foglalkozik a világégést megelőző rövid időszakkal. Talán, mert nehéz összehozni az elkerülhetetlenül bekövetkező pusztulást és a szerepjátékok általános heroizáló karakterképét. *"Miért harcoljak egy olyan világért, ami menthetetlenül el fog pusztulni?"*, kérdezheti sok játékos, és a karaktereik is ennek megfelelően unott alakok lesznek, akik megpróbálják a lehető leghatékonyabban kihasználni a hátralévő időt, ami gyakran általános harácsolásba és a játékrendszernek az átlagemberek felett nyújtotta hatalmával visszaélve akaratlanul is egyfajta antiheroikus, kínosan vicces hedonizmusába torkollik. Mégis, időnként akad egy-két olyan játék, ami képes megfelelően kezelni ezt a problémát és bár nem bánik kesztyűs kézzel a karakterekkel, van egyfajta hangulata, ami megfogja a játékosok jelentős részét és az elkerülhetetlen végzettel is szembeállítják karaktereiket. Ezt általában úgy érik el, hogy a szokványos klisékhez bátran hozzányúlnak és nem félnek nyersebb, erőszakosabb vonásokkal felruházni azokat, miközben a világban nem csak a puszta nihil, hanem a remény pislákoló csillaga és a hősiesség értelme is fennmarad valamelyest. Egyik legjobb példa erre a máig népszerű és több kiadást megélt *Warhammer Fantasy* (és a *40K* is valamilyen formában), illetve az alább tárgyalandó *Shadow of the Demon Lord* (továbbiakban SotDL) is - és ahogy látni fogjuk, a két játék közötti hasonlóság nem véletlen.
 
 *Robert J. Schwalb* neve ismerősen csenghet az idősebb szerepjátékos generáció fülében. Elég sok D&amp;D-s és Warhammeres munkán látni a nevét a kiemelt írók között, de a Green Ronin-nál eltöltött idejéről is több kiadvány árulkodik. Például ő írta az *A Song of Fire and Ice* szerepjátékot és a *Black Company* kiegészítőt, valamint pár évvel később a WotC-nél aktív részese volt a 4. és 5. kiadású D&amp;D alapkönyveknek (ennek nyomai a SotDL kialakításán is látszanak), és jóideig vezetett a *Dragon*-ban egy önálló rovatot. Később bedolgozott Monte Cook mellé a *Numenera* világ bővítésébe, végül ő is szintén egy szerényen a saját neve alatt futó kiadót alapított. Első játéka 2015 elején futott a Kickstarteren igen szép eredménnyel és a Démonúr árnyékában megbújó kis világa azóta is szépen gyarapodik az új kiegészítésekkel. Munkáiról általában tudni kell, hogy kedveli a sötét és nyers, ugyanakkor kissé morbid humorral megtűzdelt helyzeteket, és nagy rajongója a *Warhammer Fantasy*-nek, amelynek hatása a SotDL-on is erősen tetten érhető. Több könyve is saját jogán, vagy megosztva ENnies nyertes, vagy helyezett volt.
 
@@ -232,9 +232,9 @@ Linkek:
 
 - Hivatalos oldal: http://schwalbentertainment.com/shadow-of-the-demon-lord/
 
-- G+ csoport: https://plus.google.com/u/0/communities/115188020895299223511 (Schwalb aktívan felbukkan itt és szokott válaszolni, moderátor is)
+- G+ csoport (megszűnt): https://plus.google.com/u/0/communities/115188020895299223511
 
-- Reddit: https://www.reddit.com/r/shadowofthedemonlord/ (ez elég kihalt, de a /r/rpg alatt néha elő szokott kerülni)
+- Reddit: https://www.reddit.com/r/shadowofthedemonlord/ (ez időnként felélénkül, de a /r/rpg alatt is elő szokott kerülni)
 
 - FB: https://www.facebook.com/schwalbentertainment/
 
@@ -327,7 +327,6 @@ Ragnar a Pajzshegységekben született és a Félelem hegyén székelő rettenet
 ### Amanda Peyton
 
 **human, level 7 (master), priest - paladin - exorcist**
-
 
 **ST:** 13; **AG:** 12; **IN:** 10; **WI:** 13
 
