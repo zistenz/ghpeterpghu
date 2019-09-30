@@ -158,7 +158,7 @@ Minden faj leírása egy oldal, külső és belső jellemzőkkel, illetve a töb
 
 <br />
 
-*-A vizeletem lehet kék színű?*
+*- A vizeletem lehet kék színű?*
 
 *- Ez csak a chip mellékhatása. Az energiaforrás oldódik...*
 
