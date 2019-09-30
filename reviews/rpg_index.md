@@ -4,13 +4,13 @@ Ez a gyűjtemény csak a saját írásaimat tartalmazza. Ha az összes, itthon m
 
 * [Double Cross](double_cross.md)
 * [Golden Sky Stories](gss.md)
-* [Maid](maid.md)
+* [Maid](maid.md])
 * [Numenera, The Strange, Cypher System](cyp_num_ts.md)
 * Ork!
 * Savage Worlds Deluxe Edition
 * [Shadow of the Demon Lord](sotdl.md)
-* SLA Industries
-* [Tenra Bansho Zero](tbz.md)
+* [SLA Industries](sla_ism.md)
+* [Tenra Bansho Zero](tbz.md])
 * Warhammer 40K - Dark Heresy és Ascension
 * ...
 
