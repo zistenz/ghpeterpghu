@@ -10,7 +10,7 @@ Ez a gyűjtemény csak a saját írásaimat tartalmazza. Ha az összes, itthon m
 * Savage Worlds Deluxe Edition - [LFG](http://lfg.hu/47760/ismerteto/savage-worlds-deluxe-edition/)
 * [Shadow of the Demon Lord](sotdl.md) - [LFG](http://lfg.hu/76188/ismerteto/shadow-of-the-demon-lord-ismerteto/)
 * [SLA Industries](sla_ism.md) - [LFG](http://lfg.hu/1582/ismerteto/sla-industries-dave-allsop-szerepjateka/)
-* [Tenra Bansho Zero](tbz.md]) - [LFG](http://lfg.hu/62953/ismerteto/tenra-bansho-zero-rpg-hyper-asian-technomagikus-fantasy-szerepjatek/)
+* [Tenra Bansho Zero](tbz.md) - [LFG](http://lfg.hu/62953/ismerteto/tenra-bansho-zero-rpg-hyper-asian-technomagikus-fantasy-szerepjatek/)
 * Warhammer 40K - Dark Heresy - [LFG](http://lfg.hu/15261/ismerteto/dark-heresy-warhammer-40000-roleplay-ismerteto-es-jatekteszt/) és Ascension - [LFG](http://lfg.hu/16303/ismerteto/wh40k-dark-heresy-ascension/)
 * ...
 
