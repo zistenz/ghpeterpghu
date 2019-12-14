@@ -4,7 +4,7 @@ Ez a gyűjtemény csak a saját írásaimat tartalmazza. Ha az összes, itthon m
 
 * [Double Cross](double_cross.md) - [LFG](http://lfg.hu/65682/ismerteto/double-cross-rpg-ismerteto/)
 * [Golden Sky Stories](gss.md) - [LFG](http://lfg.hu/63026/ismerteto/golden-sky-stories-heart-warming-role-playing/)
-* [Maid](maid.md]) - [LFG](http://lfg.hu/65962/ismerteto/maid-rpg/)
+* [Maid](maid.md) - [LFG](http://lfg.hu/65962/ismerteto/maid-rpg/)
 * [Numenera, The Strange, Cypher System](cyp_num_ts.md) - LFG [1. rész](http://lfg.hu/76278/ismerteto/cypher-system-numenera-es-the-strange-ismerteto-13), [2. rész](http://lfg.hu/76519/ismerteto/cypher-system-numenera-es-the-strange-ismerteto-23-2/), [3. rész](http://lfg.hu/76518/hirek/cypher-system-numenera-es-the-strange-ismerteto-33/)
 * Ork! - [LFG](http://lfg.hu/8684/ismerteto/ork-the-roleplaying-game/)
 * Savage Worlds Deluxe Edition - [LFG](http://lfg.hu/47760/ismerteto/savage-worlds-deluxe-edition/)
