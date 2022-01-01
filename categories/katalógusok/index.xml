@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>katalógusok on PeteRPG</title>
+    <link>https://zistenz.github.io/ghpeterpghu/categories/katal%C3%B3gusok/</link>
+    <description>Recent content in katalógusok on PeteRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/categories/katal%C3%B3gusok/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Szerepjáték ismertetők</title>
+      <link>https://zistenz.github.io/ghpeterpghu/rpg-ismertetok/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/rpg-ismertetok/</guid>
+      <description>Ez a gyűjtemény csak a saját írásaimat tartalmazza. Ha az összes, itthon megjelent ismertetőre vagy kíváncsi, az LFG oldalán létezik egy összesítés. Az alábbi ismertetőim egy jelentős része megjelent az LFG-n is, ezeket külön linkeltem a kényelem és a hozzászólások miatt.
+ Double Cross - LFG Adventure Game Engine (AGE) - LFG Golden Sky Stories - LFG Maid - LFG Numenera, The Strange, Cypher System - LFG 1. rész, 2. rész, 3.</description>
+    </item>
+    
+  </channel>
+</rss>
