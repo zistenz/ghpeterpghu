@@ -6,24 +6,97 @@
     <description>Recent content in Posts on PeteRPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
-    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ez az oldal?</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/about/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/about/</guid>
+      <description>A PeteRPG Tóth Péter (aka. Petrus) főként szerepjátékokkal és irodalommal foglalkozó weboldala, ami számos inkarnációt megélt már az évtizedek alatt. Legutóbb az LFG berkeiben talált helyet, de különféle okok miatt a megszűntetése mellett döntöttem. Most itt, a Github lehetőségei között próbálom újból feltámasztani és életet lehetni bele. Első körben a régi anyagok megrostálása, rendszerezése, és átalakítása, javítása történik, főként az ismertetőim, cikkeim, és írásaim témájában.
+További információkért érdemes a subredditemet (/r/PeteRPG ) felkeresni, ahol a wiki linkre kattintva a felső sorban mindent megtalálsz az elérhetőségeimmel kapcsolatban.</description>
+    </item>
+    
     <item>
       <title>Mini-RPG-k</title>
       <link>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</guid>
       <description>A mini-rpgk az utóbbi években, évtizedben kezdtek elterjedni igazán, népszerűségüket az OSR (old school renaissance) mozgalom felfutásának is köszönhetik. Ezek a játékok néhány oldalon kínálnak egy olyan egyszerű szabályrendszert, ami jellemzően egy célzott világ-, vagy helyzetleíráshoz tartoznak, gyorsan elsajátíthatók és kitűnően alkalmasak akkor, ha csak néhány óránk van játszani (akár pl. utazás közben is). Viszonylagos egyszerűségük ellenére azért használhatók hosszabb távon is. Fontos: Ezek a játékok (legalábbis a nagy részük) nem OSR kompatibilisek, inkább indie-jellegűek, így akkor is érdemes lehet megnézned ezeket, ha egyébként az OSR mozgalmat/stílust nem kedveled.</description>
     </item>
     
     <item>
-      <title>Mi ez az oldal?</title>
-      <link>https://zistenz.github.io/ghpeterpghu/posts/about/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Planescape</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/planescape/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zistenz.github.io/ghpeterpghu/posts/about/</guid>
-      <description>A PeteRPG Tóth Péter (aka. Petrus) főként szerepjátékokkal és irodalommal foglalkozó weboldala, ami számos inkarnációt megélt már az évtizedek alatt. Legutóbb az LFG berkeiben talált helyet, de különféle okok miatt a megszűntetése mellett döntöttem. Most itt, a Github lehetőségei között próbálom újból feltámasztani és életet lehetni bele. Első körben a régi anyagok megrostálása, rendszerezése, és átalakítása, javítása történik, főként az ismertetőim, cikkeim, és írásaim témájában.
-További információkért érdemes a subredditemet (/r/PeteRPG ) felkeresni, ahol a wiki linkre kattintva a felső sorban mindent megtalálsz az elérhetőségeimmel kapcsolatban.</description>
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/planescape/</guid>
+      <description>Planescape - számomra az egyik legjobb setting, amit valaha is láttam (pedig biztosan láttam már vagy 200-at). Az eredetisége, a furcsa humora, az esztétikája, és a &amp;ldquo;kalandossága&amp;rdquo; minden mást megelőz nálam, és az eltelt évtizedek alatt saját magam is írogattam hozzá kisebb dolgokat. Ez az oldal ezek összegyűjtésére és újbóli közlésére jött létre, és elképzelhető, hogy idővel új anyagokkal is bővülni fog.
+Fordítások Egy időben fordítgattam az alapdoboz könyveinek egy részét, de a teljes anyag sosem készült el (ezt annak idején megtette Nephryte és csapata a Síkhatár c.</description>
+    </item>
+    
+    <item>
+      <title>Planescape - Alsó Síkok</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_lower/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_lower/</guid>
+      <description>Fordítások a Planescape alapdobozból, illetve a (már megszűnt) planescape.com-ról.
+Acheron (Acheron) Törvényes Semleges Gonosz (LNE)
+&amp;ldquo;A művészek a lélek mérnökei. Ez az, amiért be kell zárnunk őket.&amp;rdquo; /Tall Tally, Kegyetlenek
+&amp;ldquo;Az igazság nem törvény.&amp;rdquo; /közmondás a Kegyetlenektől
+&amp;ldquo;Nocsak, nocsak, nocsak. Te tényleg fura egy síkjáró vagy. Először a síkok elhelyezkedéséről kérdezel, most meg Acheronról keresel infókat. Nos, ha nem is hallgatsz rám, legalább hallgass végig. Acheron egy harctér, egy állandó, véget nem érő háborúé.</description>
+    </item>
+    
+    <item>
+      <title>Planescape - angol szleng kifejezések és magyarázatuk</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_glossary/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_glossary/</guid>
+      <description>ADDLE-COVE: Egy nem túl gyakori baráti útja annak, hogy valakit hülyének nevezzünk, mint pl. &amp;ldquo;Hallottad, hogy az a zápult varázsló mit akar tőlünk?&amp;rdquo;. Kifejezésben: &amp;ldquo;ő egy záptojásfejű!&amp;rdquo;. &amp;ldquo;Zápult&amp;rdquo;, vagy &amp;ldquo;záptojásfejű&amp;rdquo; ANTHILL: Egy város, vagy falu. &amp;ldquo;Hangyaboly&amp;rdquo; BANG AROUND: Lődörgés, vagy semmittevés. A kalandok között az ütősök néha &amp;ldquo;a Ketrecben lődörögnek&amp;rdquo;. &amp;ldquo;Lődörgés&amp;rdquo; BAR THAT: Egy igazán kifinomult változata a &amp;ldquo;kuss&amp;rdquo; -nak, vagy a &amp;ldquo;ne beszélj erről&amp;rdquo;-nek. Ez egyszerű és figyelmeztetésként használatos: &amp;ldquo;Zárd be, Janos, Szemetesek vannak a közelben.</description>
+    </item>
+    
+    <item>
+      <title>Planescape - Damerth világa</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_damerth/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_damerth/</guid>
+      <description>A világ A világ egy jó ötszáz mérföld átmérőjű formátlan sziklatömb az éjfekete semmi közepén. Egyesek szerint az Abyss több, mint 600 rétegének valamelyike, mások úgy vélik, hogy a Sötétség Síkjának egy kis elszigetelt darabja. Biztosat senki sem tud. Tény, hogy Sigilhez hasonlóan ez a földdarab is Kapuk sokaságait hordozza magán, habár ezek száma meg sem közelíti a Kapuk Városában találhatókat.
+A világ nem védett a külső behatolóktól, így elvileg akár a legnagyobb istenek is végigdúlhatnák - de nem teszik.</description>
+    </item>
+    
+    <item>
+      <title>Planescape - Felső Síkok</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_upper/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_upper/</guid>
+      <description>Fordítások a PS alapdobozból, illetve a (már megszűnt) planescape.com-ról.
+Árkádia (Arcadia) Törvényes Semleges Jó (LNG)
+&amp;ldquo;Óh, csaknem egy ráncosító éve már, hogy egy ütõs Arcadiáról kérdezett. Mi? Mit kérdezel? Nos, tényleg az van, hogy a legtöbb pengést nem túl szívélyesen fogadják ezen a síkon. Figyelj, a helyiek, akik fõleg einheriárok és keményfejûek, nem sokat óvatoskodnak a látogatókkal. Fõleg azokkal, akik nem törvényesek és nem jók. Ez a hely egyáltalán nem olyan, mint bárhol másutt, és azok, akik ezt hívják szállásuknak, szintén nem olyanok, akikkel máshol találkozhatsz.</description>
+    </item>
+    
+    <item>
+      <title>Planescape - frakciók Sigilben</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_factions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_factions/</guid>
+      <description>Ezek a frakciók a világban később bekövetkezett Frakcióháború (Faction War) előttiek, többségük felbomlott a háborúban, vagy kiírtották őket&amp;hellip;
+Az Ellenszegülők (Az Elveszettek) - Athar A CSOPORT FILOZÓFIÁJA: A fickók szerint a nagy hatalmak mind hazugok! Azok, akik &amp;ldquo;isteneknek&amp;rdquo; nevezik magukat, ugyanolyan halandók, mint mi vagyunk. Ó, igen&amp;hellip; ők hihetetlenül hatalmasak, de nem istenek. Végül is, ők is meghalnak, boldog áhítatban kell tartaniuk a híveiket, és néha ugyanúgy civakodnak egymás közt, mint a gyerekek.</description>
+    </item>
+    
+    <item>
+      <title>Planescape - Kiegészítések</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_kieg01/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/pscape/ps_kieg01/</guid>
+      <description>Totem varázslók Van egy réteg valahol a Mélységben, ahol az egyedüli élet egy óriási totem körül alakult ki. Az oszlop kb. 500m magas és 30m átmérőjű. Kopott faragványokkal és ismeretlen írással borított, valamint itt-ott lyukak találhatók rajta (portálok különféle helyekre).
+A Totem köré egy kisebb közösség telepedett le (kb. 300-an), akik mind kivétel nélkül alacsonyabb rangú tanar&amp;rsquo;rik, illetve démonvérrel fertőzöttek (cambion, stb.). A helyi varázstudók mind a Totemtől kapják a hatalmukat, ami kb.</description>
     </item>
     
   </channel>
