@@ -6,7 +6,17 @@
     <description>Recent content in index on PeteRPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Könyvek</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/book/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/book/</guid>
+      <description>Aktív olvasóként az elmúlt évtizedek alatt számos könyv megfordult a kezemben, ezek többségéről írtam is valamiféle rövid kritikát és értékelést. Ezek ma már ezerfelé találhatók meg különféle diskmagokban és online forrásokban (a subredditemen egy címke alatt könnyebben elérhetők a legújabbak), ezért megpróbálom összegyűjteni ide mindet, amit csak megtalálok. A könyveket írók, és ha szükséges, sorozatok szerint csoportosítom itt.
+A régebbi összevissza értékeléseket egységesítettem 1-5 skála (⭐) szerint, és ahol hiányzott, linkeltem a Goodreads oldalakat is.</description>
+    </item>
+    
     <item>
       <title>Mini-RPG-k</title>
       <link>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</link>
