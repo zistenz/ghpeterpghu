@@ -6,7 +6,27 @@
     <description>Recent content in katalógusok on PeteRPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/categories/katal%C3%B3gusok/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/categories/katal%C3%B3gusok/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Könyvek</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/book/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/book/</guid>
+      <description>Aktív olvasóként az elmúlt évtizedek alatt számos könyv megfordult a kezemben, ezek többségéről írtam is valamiféle rövid kritikát és értékelést. Ezek ma már ezerfelé találhatók meg különféle diskmagokban és online forrásokban (a subredditemen egy címke alatt könnyebben elérhetők a legújabbak), ezért megpróbálom összegyűjteni ide mindet, amit csak megtalálok. A könyveket írók, és ha szükséges, sorozatok szerint csoportosítom itt.
+A régebbi összevissza értékeléseket egységesítettem 1-5 skála szerint, és ahol hiányzott, linkeltem a Goodreads oldalakat is.</description>
+    </item>
+    
+    <item>
+      <title>Planescape</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/planescape/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/planescape/</guid>
+      <description>Planescape - számomra az egyik legjobb setting, amit valaha is láttam (pedig biztosan láttam már vagy 200-at). Az eredetisége, a furcsa humora, az esztétikája, és a &amp;ldquo;kalandossága&amp;rdquo; minden mást megelőz nálam, és az eltelt évtizedek alatt saját magam is írogattam hozzá kisebb dolgokat. Ez az oldal ezek összegyűjtésére és újbóli közlésére jött létre, és elképzelhető, hogy idővel új anyagokkal is bővülni fog.
+Egyébként ha egy élvezetes, hangulatos, valódi Planescape regényre vágynál, ajánlom James Allan Gardner Fire and Dust-ját, amiről itt írtam bővebben.</description>
+    </item>
+    
     <item>
       <title>Mini-RPG-k</title>
       <link>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</link>
@@ -14,16 +34,6 @@
       
       <guid>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</guid>
       <description>A mini-rpgk az utóbbi években, évtizedben kezdtek elterjedni igazán, népszerűségüket az OSR (old school renaissance) mozgalom felfutásának is köszönhetik. Ezek a játékok néhány oldalon kínálnak egy olyan egyszerű szabályrendszert, ami jellemzően egy célzott világ-, vagy helyzetleíráshoz tartoznak, gyorsan elsajátíthatók és kitűnően alkalmasak akkor, ha csak néhány óránk van játszani (akár pl. utazás közben is). Viszonylagos egyszerűségük ellenére azért használhatók hosszabb távon is. Fontos: Ezek a játékok (legalábbis a nagy részük) nem OSR kompatibilisek, inkább indie-jellegűek, így akkor is érdemes lehet megnézned ezeket, ha egyébként az OSR mozgalmat/stílust nem kedveled.</description>
-    </item>
-    
-    <item>
-      <title>Planescape</title>
-      <link>https://zistenz.github.io/ghpeterpghu/posts/planescape/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zistenz.github.io/ghpeterpghu/posts/planescape/</guid>
-      <description>Planescape - számomra az egyik legjobb setting, amit valaha is láttam (pedig biztosan láttam már vagy 200-at). Az eredetisége, a furcsa humora, az esztétikája, és a &amp;ldquo;kalandossága&amp;rdquo; minden mást megelőz nálam, és az eltelt évtizedek alatt saját magam is írogattam hozzá kisebb dolgokat. Ez az oldal ezek összegyűjtésére és újbóli közlésére jött létre, és elképzelhető, hogy idővel új anyagokkal is bővülni fog.
-Fordítások Egy időben fordítgattam az alapdoboz könyveinek egy részét, de a teljes anyag sosem készült el (ezt annak idején megtette Nephryte és csapata a Síkhatár c.</description>
     </item>
     
     <item>
