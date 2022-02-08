@@ -6,7 +6,16 @@
     <description>Recent content in Posts on PeteRPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
-    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zistenz.github.io/ghpeterpghu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini-RPG-k</title>
+      <link>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</guid>
+      <description>A mini-rpgk az utóbbi években, évtizedben kezdtek elterjedni igazán, népszerűségüket az OSR (old school renaissance) mozgalom felfutásának is köszönhetik. Ezek a játékok néhány oldalon kínálnak egy olyan egyszerű szabályrendszert, ami jellemzően egy célzott világ-, vagy helyzetleíráshoz tartoznak, gyorsan elsajátíthatók és kitűnően alkalmasak akkor, ha csak néhány óránk van játszani (akár pl. utazás közben is). Viszonylagos egyszerűségük ellenére azért használhatók hosszabb távon is. Fontos: Ezek a játékok (legalábbis a nagy részük) nem OSR kompatibilisek, inkább indie-jellegűek, így akkor is érdemes lehet megnézned ezeket, ha egyébként az OSR mozgalmat/stílust nem kedveled.</description>
+    </item>
+    
     <item>
       <title>Kocka7</title>
       <link>https://zistenz.github.io/ghpeterpghu/posts/kocka7/</link>
@@ -446,15 +455,6 @@ Füstölgő tűzgödrök, a tiszta dicsőség hegyei, sikoltó szél alagútjai 
       <guid>https://zistenz.github.io/ghpeterpghu/posts/about/</guid>
       <description>A PeteRPG Tóth Péter (aka. Petrus) főként szerepjátékokkal és irodalommal foglalkozó weboldala, ami számos inkarnációt megélt már az évtizedek alatt. Legutóbb az LFG berkeiben talált helyet, de különféle okok miatt a megszűntetése mellett döntöttem. Most itt, a Github lehetőségei között próbálom újból feltámasztani és életet lehetni bele. Első körben a régi anyagok megrostálása, rendszerezése, és átalakítása, javítása történik, főként az ismertetőim, cikkeim, és írásaim témájában.
 További információkért érdemes a subredditemet (/r/PeteRPG ) felkeresni, ahol a wiki linkre kattintva a felső sorban mindent megtalálsz az elérhetőségeimmel kapcsolatban.</description>
-    </item>
-    
-    <item>
-      <title>Mini-RPG-k</title>
-      <link>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zistenz.github.io/ghpeterpghu/posts/minirpgk/</guid>
-      <description>A mini-rpgk az utóbbi években, évtizedben kezdtek elterjedni igazán, népszerűségüket az OSR (old school renaissance) mozgalom felfutásának is köszönhetik. Ezek a játékok néhány oldalon kínálnak egy olyan egyszerű szabályrendszert, ami jellemzően egy célzott világ-, vagy helyzetleíráshoz tartoznak, gyorsan elsajátíthatók és kitűnően alkalmasak akkor, ha csak néhány óránk van játszani (akár pl. utazás közben is). Viszonylagos egyszerűségük ellenére azért használhatók hosszabb távon is. Fontos: Ezek a játékok (legalábbis a nagy részük) nem OSR kompatibilisek, inkább indie-jellegűek, így akkor is érdemes lehet megnézned ezeket, ha egyébként az OSR mozgalmat/stílust nem kedveled.</description>
     </item>
     
     <item>
